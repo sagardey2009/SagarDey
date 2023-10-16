@@ -1,0 +1,39 @@
+"Syllabus_Id";"College_Id";"Semester_Id";"Course";"CourseCode";"CourseCredit";"CourseName";"CourseLectureHours";"CourseReference";"UnitNumber";"CreateDate";"ModifyDate";"ModifyBy";"Active"
+1;-1;1;"CC1";"ECON-H-CC1-1-Th";4;"Microeconomics (I)";45;"";0;"";"2023-09-13 14:27:43";0;1
+2;-1;2;"CC2";"ECON-H-CC2-2-Th";4;"Microeconomics (I)";45;"";0;"";"2023-09-13 14:27:43";0;1
+3;-1;3;"CC3";"ECON-H-CC3-3-Th";4;"Microeconomics (II) ";45;"";0;"";"2023-09-13 14:27:43";0;1
+4;-1;3;"CC4";"ECON-H-CC4-3-Th";4;"Development Economics (I)";45;"";0;"";"2023-09-13 14:27:43";0;1
+5;-1;4;"CC5";"ECON-H-CC5-4-Th";4;"Mathematical Economics (I)";45;"";0;"";"2023-09-13 14:27:43";0;1
+6;-1;4;"CC6";"ECON-H-CC6-4-Th";4;"Macroeconomics (II)";45;"";0;"";"2023-09-13 14:27:43";0;1
+7;-1;4;"CC7";"ECON-H-CC7-4-Th";4;"Statistics for Economic";45;"";0;"";"2023-09-13 14:27:43";0;1
+8;-1;4;"CC8";"ECON-H-CC8-4-Th";4;"Indian Economics (I)";45;"";0;"";"2023-09-13 14:27:43";0;1
+9;-1;5;"CC9";"ECON-H-CC9-5-Th";4;"Microeconomics (III)";45;"";0;"";"2023-09-13 14:27:43";0;1
+10;-1;5;"CC10";"ECON-H-CC10-5-Th";4;"Macroeconomics (III)";45;"";0;"";"2023-09-13 14:27:43";0;1
+11;-1;5;"CC11";"ECON-H-CC11-5-Th";4;"Mathematical Economics (II)";45;"";0;"";"2023-09-13 14:27:43";0;1
+12;-1;5;"CC12";"ECON-H-CC12-5-Th";4;"Econometrics (I)";45;"";0;"";"2023-09-13 14:27:43";0;1
+13;-1;6;"CC13";"ECON-H-CC13-6-Th";4;"International Economics (I";45;"";0;"";"2023-09-13 14:27:43";0;1
+14;-1;6;"CC14";"ECON-H-CC14-6-Th";4;"Environmental & Resource Economics (I)";45;"";0;"";"2023-09-13 14:27:43";0;1
+15;-1;6;"CC15";"ECON-H-CC15-6-Th";4;"Public Economics (I)";45;"";0;"";"2023-09-13 14:27:43";0;1
+16;-1;7;"CC16";"ECON-H-CC16-7-Th";4;"Financial Economics (I)";45;"";0;"";"2023-09-13 14:27:43";0;1
+17;-1;7;"CC17";"ECON-H-CC17-7-Th";4;"Development Economics (II)";45;"";0;"";"2023-09-13 14:27:43";0;1
+18;-1;7;"CC18";"ECON-H-CC18-7-Th";4;"Environmental & Resource Economics (II)";45;"";0;"";"2023-09-13 14:27:43";0;1
+19;-1;7;"CC19";"ECON-H-CC19-7-Th";4;"Advanced Microeconomic Theory";45;"";0;"";"2023-09-13 14:27:43";0;1
+20;-1;7;"CC20";"ECON-H-CC20-7-Th";4;"A) PUBLIC ECONOMICS (II)/ B) INDIAN ECONOMICS (II)";45;"";0;"";"2023-09-13 14:27:43";0;1
+21;-1;8;"CC21";"ECON-H-CC21-8-Th";4;"Econometrics (II) ";45;"";0;"";"2023-09-13 14:27:43";0;1
+22;-1;8;"CC22";"ECON-H-CC22-8-Th";4;"International Economics (II) ";45;"";0;"";"2023-09-13 14:27:43";0;1
+23;-1;8;"CC23";"ECON-H-CC23-8-Th";4;"Advanced Macroeconomic Theor";45;"";0;"";"2023-09-13 14:27:43";0;1
+24;-1;8;"CC24";"ECON-H-CC24-8-Th";4;"A) FINANCIAL ECONOMICS (II)/B) MANAGERIAL ECONOMIC";45;"";0;"";"2023-09-13 14:27:43";0;1
+25;-1;8;"CC25";"ECON-H-CC25-8-Th";4;"A) GENDER ECONOMICS / B) INDIAN ECONOMIC HISTOR";45;"";0;"";"2023-09-13 14:27:43";0;1
+26;-1;1;"SEC1";"ECON-H-SEC1-1-Th";3;"Introductory Statistics & Application (I)";45;"";0;"";"2023-09-13 14:27:43";0;1
+27;-1;2;"SEC2";"ECON-H-SEC2-2-Th";3;"Introductory Statistics & Application (II)";45;"";0;"";"2023-09-13 14:27:43";0;1
+28;-1;3;"SEC3";"ECON-H-SEC3-3-Th";3;"Data Analysis and Research Methodology";45;"";0;"";"2023-09-13 14:27:43";0;1
+29;-1;1;"IDC";"ECON-H-IDC-1/2/3-Th";3;" Elementary Economics";45;"";0;"";"2023-09-13 14:27:43";0;1
+30;-1;1;"MDC1";"ECON-MD-CC1-1-Th ";4;"Microeconomics (I) ";45;"";0;"";"2023-09-13 15:51:40";0;1
+31;-1;2;"MDC2";"ECON-MD-CC2-2-Th ";4;"Macroeconomics (I) ";45;"";0;"";"2023-09-13 15:51:40";0;1
+32;-1;3;"MDC3";"ECON-MD-CC3-3-Th ";4;"Development Economics (I)";45;"";0;"";"2023-09-13 15:51:40";0;1
+33;-1;4;"MDC4";"ECON-MD-CC4-4-Th ";4;"Indian Economics (I)";45;"";0;"";"2023-09-13 15:51:40";0;1
+34;-1;5;"MDC5";"ECON-MD-CC5-4-Th ";4;"Sustainable Development ";45;"";0;"";"2023-09-13 15:51:40";0;1
+35;-1;5;"MDC6";"ECON-MD-CC6-5-Th ";4;"Economic History of India (1857-1947)";45;"";0;"";"2023-09-13 15:51:40";0;1
+36;-1;6;"MDC7";"ECON-MD-CC7-5-Th ";4;"Public Finance";45;"";0;"";"2023-09-13 15:51:40";0;1
+37;-1;6;"MDC7";"ECON-MD-CC7-6-Th ";4;"Public Finance";45;"";0;"";"2023-09-13 15:51:40";0;1
+38;-1;6;"MDC8";"ECON-MD-CC8-6-Th ";4;"Rural Development";45;"";0;"";"2023-09-13 15:51:40";0;1

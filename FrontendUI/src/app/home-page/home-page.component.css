@@ -1,0 +1,37 @@
+.mat-card {
+    margin: 0px 10px;
+    height: 100%;
+    align-self: flex-start;
+}
+
+.mat-mdc-card{
+    background-color: rgb(236, 234, 234);
+    vertical-align: top;
+    width: 100%;
+    padding-left: 10Px;
+}
+
+mat-grid-tile{
+    background-color: salmon;
+}
+
+.GridCenter{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    justify-content: center;
+}
+
+._mat-grid-tile-content {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .centered{
+    text-align: center;
+  }
+
+  .mat-divider-horizontal { 
+    border-top-color: rgb(98, 0, 255); 
+    height: 10PX;
+}

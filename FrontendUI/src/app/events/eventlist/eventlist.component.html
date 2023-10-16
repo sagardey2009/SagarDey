@@ -1,0 +1,36 @@
+<table mat-table [dataSource]="dataSource">
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns:displayedColumns"></tr>  
+    <ng-container matColumnDef="EventDate">
+        <th mat-header-cell *matHeaderCellDef>Date</th>
+        <tr mat-cell *matCellDef="let element">{{element.EventDate}}</tr>
+    </ng-container>
+
+    <ng-container matColumnDef="OrganizedBy">
+        <th mat-header-cell *matHeaderCellDef>Organized By</th>
+        <tr mat-cell *matCellDef="let element">{{element.OrganizedBy}}</tr>
+    </ng-container>
+
+    <ng-container matColumnDef="EventName">
+        <th mat-header-cell *matHeaderCellDef>Event Name</th>
+        <tr mat-cell *matCellDef="let element">{{element.EventName}}</tr>
+    </ng-container>
+
+    <ng-container matColumnDef="EventLocation">
+        <th mat-header-cell *matHeaderCellDef>Event Location</th>
+        <tr mat-cell *matCellDef="let element">{{element.EventLocation}}</tr>
+    </ng-container>
+
+    <ng-container matColumnDef="From - To">
+        <th mat-header-cell *matHeaderCellDef>From - To</th>
+        <tr mat-cell *matCellDef="let element">{{element.EventFromTo}}</tr>
+    </ng-container>
+
+    <ng-container matColumnDef="Action">
+        <th mat-header-cell *matHeaderCellDef>Action</th>
+        <tr mat-cell *matCellDef="let element"></tr>
+    </ng-container>
+
+
+
+</table>

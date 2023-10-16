@@ -1,0 +1,25 @@
+<div class="flex">
+    <div class="m-auto">
+        <mat-card class="outline">
+            <mat-card-title>Enter your phone and passowrd to login</mat-card-title>
+            <mat-card-content>
+                <form action="">
+                    <mat-form-field>
+                        <mat-label>Phone number</mat-label>
+                        <input matInput type="phone" required/>
+                        <mat-icon matSuffix>phone</mat-icon>
+                        <!-- mat-hint>Include area code</mat-hint -->
+                    </mat-form-field>
+                    <mat-form-field>
+                        <mat-label>Password</mat-label>
+                        <input matInput type="password" required/>
+                        <mat-icon matSuffix>password</mat-icon>
+                    </mat-form-field>
+                </form>
+            </mat-card-content>
+            <mat-card-actions align="end">
+                <button type="submit" mat-raised-button mat-button color="primary" (click)="OnClick()">Login</button>
+            </mat-card-actions>
+        </mat-card>
+    </div>
+</div>

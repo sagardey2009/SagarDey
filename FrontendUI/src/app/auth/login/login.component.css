@@ -1,0 +1,26 @@
+.flex{
+    display: flex;
+}
+
+.m-auto{
+    margin: auto;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+.mat-mdc-card{
+    margin-top: 150px;
+    background-color: rgb(236, 234, 234);
+    padding: 40px;
+    width: 100%;
+    vertical-align: top;
+}
+
+.outline{
+    border-radius: 6px;
+    border-style: solid;
+    border-width: 1px;
+}
