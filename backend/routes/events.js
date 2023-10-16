@@ -28,8 +28,8 @@ router.post('/createevent', (req, res) => {
     connection.query(insertquery, [eventDetails.Eventid, eventDetails.EventTypeId, eventDetails.clg_id, eventDetails.dept_id, eventDetails.committee_id,
     eventDetails.Eventname, eventDetails.EventLocation, eventDetails.EventPurpose, eventDetails.EventNotes,
     eventDetails.EventOutcome, eventDetails.EventNext, eventDetails.EventFrom, eventDetails.EventDate, eventDetails.EventTo,
-    eventDetails.user_id, eventDetails.EventAttendess, eventDetails.EventFiles], (err, results) => {
-        if (!err) {
+    eventDetails.user_id, eventDetails.EventAttendess, eventDetails.EventFiles], (errr, results) => {
+        if (!errr) {
             return res.status(200).json({ message: "Successfully  Created" })
         } else {
             return res.status(500).json(err);
